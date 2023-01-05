@@ -1,4 +1,4 @@
-# :wave: is216-project
+# :wave: is216-project [Project Grade: A+]
 
 ## 🤓 IS216 - Group 24 - Team Tam
 * Lim Jie Min -  jiemin.lim.2019
